@@ -26,6 +26,5 @@ public class OutputTask {
         System.out.println("  ***");
         System.out.println(" ****");
         System.out.println("*****");
-
     }
 }
